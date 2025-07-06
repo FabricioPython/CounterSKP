@@ -35,3 +35,4 @@ Sequencia inicial do skp, Sequencia final do skp, Quantidade de Canhotos, Tipo d
 ![Descrição Geral](https://prnt.sc/K9pgsEvQ9A5A)
 
 ![Base excel](https://prnt.sc/8L0uR1BAbm5T)
+
