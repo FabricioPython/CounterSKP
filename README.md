@@ -30,9 +30,8 @@ Sequencia inicial do skp, Sequencia final do skp, Quantidade de Canhotos, Tipo d
 
 ## Screenshots
 
-![Relatório](https://prnt.sc/X4ubO9Z4hC1o)
+<img src="/img/data.png">
 
-![Descrição Geral](https://prnt.sc/K9pgsEvQ9A5A)
+<img src="/img/relatorio.png">
 
-![Base excel](https://prnt.sc/8L0uR1BAbm5T)
-
+<img src="/img/excel.png">
